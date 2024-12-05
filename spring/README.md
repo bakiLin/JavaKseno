@@ -1,2 +1,3 @@
-Создание пользователя
-![Снимок экрана 2024-12-05 160618](https://github.com/user-attachments/assets/ad8d7c18-571e-4859-8cf2-1c6c5f552492)
+### Создание пользователя
+<img src="https://github.com/user-attachments/assets/ff3289fe-95db-4a17-9ba2-2794ad02ee6c" width=60% height=60%/>
+
